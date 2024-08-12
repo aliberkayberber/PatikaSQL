@@ -1,10 +1,10 @@
 # Sql de başlıca sorguları örnekleri
 
-  ** WHERE
+  `WHERE`
   
-  ** AND
+  `AND`
   
-  ** OR
+  `OR`
   
-  ** NOT
+  `NOT`
   
