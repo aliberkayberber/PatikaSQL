@@ -1,7 +1,7 @@
 -- 1.Soru: film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
 
-SELECT rental_rate FROM film
-GROUP BY rental_rate;
+SELECT rating , Count(*) FROM film
+GROUP BY rating;
 
 
 -- 2.Soru: film tablosunda bulunan filmleri replacement_cost sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
